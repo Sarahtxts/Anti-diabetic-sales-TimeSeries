@@ -89,11 +89,11 @@ plt.show()
 
 ## 👩‍💻 Author
 
-*Your Name Here*  
+*Sarah S V*  
 B.Tech – Artificial Intelligence and Data Science  
 Rajalakshmi Institute of Technology, Chennai  
-📧 *[Add your contact info]*
-
+📧 *[sarahsv.codes@gmail.com]*
+📧 *[https://www.linkedin.com/in/sarahsv3107/]*
 ***
 
 ## 📚 References
@@ -107,5 +107,3 @@ Rajalakshmi Institute of Technology, Chennai
 *For questions or suggestions, open an issue or reach out!*
 
 ***
-
-Let me know if you want this tailored further, or need a sample folder structure or sample output images!
